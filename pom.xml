@@ -11,4 +11,5 @@
         <maven.compiler.target>19</maven.compiler.target>
         <exec.mainClass>com.mycompany.celciustofahrenheit.CelciusToFahrenheit</exec.mainClass>
     </properties>
+    <name>AplikasiPertambahanDuaAngka</name>
 </project>
